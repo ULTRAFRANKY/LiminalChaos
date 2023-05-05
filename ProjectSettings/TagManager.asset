@@ -3,12 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PlayerBody
+  - CheckPoint
+  - StartPoint
+  - Light
+  - Enemy
+  - Interact
+  - Ally
+  - InventoryManager
+  - Collectable
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - PostProc
   - Water
   - UI
   - 
