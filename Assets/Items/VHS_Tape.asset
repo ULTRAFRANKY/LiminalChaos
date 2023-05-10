@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c97293f013d83ab45ab1a811a7adc758, type: 3}
   m_Name: VHS_Tape
   m_EditorClassIdentifier: 
-  g_name: VHS_Tape
+  g_name: magic tablet
   g_sprite: {fileID: 0}
